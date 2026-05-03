@@ -1,0 +1,12 @@
+{
+  "name": "Praneeth Madala",
+  "target_role": "Data Engineer",
+  "experience_years": 3,
+  "skills": ["Kafka", "Spark", "AWS", "Databricks", "Python", "SQL", "AWS Glue", "Lambda", "S3"],
+  "domain": "Healthcare data pipelines",
+  "impact": "10M+ records/day",
+  "locations": ["Bengaluru", "Hyderabad", "Remote"],
+  "salary_min_lpa": 15,
+  "salary_max_lpa": 25,
+  "reject_keywords": ["5+ years", "7 years", "senior only", "Java backend", "data analyst", "Power BI only"]
+}
